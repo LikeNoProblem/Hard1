@@ -40,6 +40,8 @@ public class Training {
         System.out.print(((HasCapabilities)driver).getCapabilities());
         System.out.print("New");
         System.out.print("LastOne");
+        System.out.print("LastOne");
+        System.out.print("LastOne");
     }
 
 
