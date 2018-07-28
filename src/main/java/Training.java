@@ -38,7 +38,7 @@ public class Training {
         actions = new Actions(driver);
         wait = new WebDriverWait(driver,5);
         System.out.print(((HasCapabilities)driver).getCapabilities());
-        System.out.print(((HasCapabilities)driver).getCapabilities());
+        System.out.print("New");
     }
 
 
