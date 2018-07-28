@@ -39,7 +39,7 @@ public class Training {
         wait = new WebDriverWait(driver,5);
         System.out.print(((HasCapabilities)driver).getCapabilities());
         System.out.print("New");
-        System.out.print("New");
+        System.out.print("LastOne");
     }
 
 
