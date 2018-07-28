@@ -41,7 +41,7 @@ public class Training {
         System.out.print("New");
         System.out.print("LastOne");
         System.out.print("LastOne");
-        System.out.print("LastOne");
+        System.out.print("Best");
     }
 
 
