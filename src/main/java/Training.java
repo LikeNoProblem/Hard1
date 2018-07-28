@@ -107,6 +107,7 @@ public class Training {
         WebElement name = driver.findElement(By.id("name"));
         actions.moveToElement(name);
         name.sendKeys("KRASAVA");
+        name.sendKeys("KRASAVA");
 
     }
 
