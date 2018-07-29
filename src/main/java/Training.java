@@ -38,10 +38,6 @@ public class Training {
         actions = new Actions(driver);
         wait = new WebDriverWait(driver,5);
         System.out.print(((HasCapabilities)driver).getCapabilities());
-        System.out.print("New");
-        System.out.print("LastOne");
-        System.out.print("LastOne");
-        System.out.print("Best");
     }
 
 
@@ -124,7 +120,6 @@ public class Training {
     public void stop() {
 
         driver.quit();
-
 
     }
 
